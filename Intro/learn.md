@@ -12,14 +12,15 @@ The main thing you can see is called the "Viewport".  This is where you see the 
 
 ![alt text](images/viewport.png)
 
-Hold down your <kbd>MMB</kbd> middle mouse button (click down on the scroll wheel) and move your mouse around to change your view of the scene.
+Hold down your <kbd>MMB</kbd> middle mouse button (click down on the scroll wheel) and move your mouse around to change your view of the scene.  To pan your camera around hold down <kbd>Shift</kbd> while you press <kbd>MMB</kbd> while moving your mouse around.  To zoom in and out you simply use your scroll wheel!
 
 The orange outline shows you what you've got selected in your scene.  Try using your <kbd>LMB</kbd> left mouse click to select some of the other things in your scene.  In the start up file you'll have a cube, a camera and a light.
 Notice as you change what is selected the properties on the right hand side change.
 
 ![alt text](images/properties.png)
 
-Try selecting your cube and then grab one of the numbers <kbd>LMB</kbd> in the properties panel and see what happens when you change it.
+Try selecting your cube and change one of the numbers <kbd>LMB</kbd> in the properties panel and see what happens when you change it.
+You can click and drag (let and right) on the numbers in the property panel to change them.
 
 Like most programs you can press <kbd>Ctrl</kbd>+<kbd>Z</kbd> to undo changes.
 
@@ -40,7 +41,7 @@ Next lets add some colour to our objects. First we need to tell Blender that we 
 
 ![alt text](images/colours.png)
 
-Now we can see colours on the objects but we haven't given any objects a colour yet.  Select an object (<kbd>LMD</kbd>) and in the properties panel go to the "Material properties" tab, which has a small red checked sphere icon.  If there aren't any settings in this panel then you can press the "New" button to add them.  Adjust the "base colour" and you'll see the object change in the viewport.
+Now we can see colours on the objects but we haven't given any objects a colour yet.  Select an object (<kbd>LMB</kbd>) and in the properties panel go to the "Material properties" tab, which has a small red checked sphere icon.  If there aren't any settings in this panel then you can press the "New" button to add them.  Adjust the "base colour" and you'll see the object change in the viewport.
 
 Once you're happy with this move on to the [next section](practice.md) to practice what you've just learned.  You can come back to this page at any time if you forget how to do something.
 

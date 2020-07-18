@@ -43,6 +43,6 @@ Now that we've got some interesting objects lets learn how to give them some tex
 
 [Rendering](Rendering/learn.md)
 
-[Materials](Rendering/learn.md)
+[Materials](Materials/learn.md)
 
 [Compositing](Compositing/learn.md)

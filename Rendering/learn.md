@@ -30,7 +30,13 @@ The "Sun", "Spot" and "Area" lamps have little yellow handles that you can click
 
 Next you'll need a camera.  You create this from the same "Add" menu as before.
 You can select the camera and move it around like any other object.
-Press <kbd>0</kbd> on the numpad to look through the cameras view.
+Press <kbd>numpad-0</kbd> on the numpad to look through the cameras view.
+Hit <kbd>numpad-0</kbd> again to leave the camera view.
+
+It can sometimes be helpful to move your camera around in the same way as you move your view.
+To do this look through your camera <kbd>numpad-0</kbd> and then turn on "Lock Camera to View".
+
+![alt text](images/lock_camera.png)
 
 When you're ready press <kbd>F12</kbd> to create the render.  From the window that pops up you can choose to save the image to a file.
 

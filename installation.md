@@ -5,4 +5,9 @@ Head over to [blender.org/download](https://www.blender.org/download/) and downl
 ![alt text](download.png)
 
 For using Blender you will want a mouse you can plug in.  You'll struggle with just a trackpad.
-A keyboard with a numpad would also be helpful but isn't essential.
+If you don't have a numpad on your keyboard you should turn on "Emulate Numpad".
+Once this is turned on whenever you see <kbd>numpad-0</kbd> you should press the normal <kbd>0</kbd> key instead.
+
+![alt text](preferences.png)
+
+![alt text](emulate_numpad.png)

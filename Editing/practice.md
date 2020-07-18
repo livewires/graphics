@@ -4,7 +4,7 @@
 
 To practice what we've just learned lets make something like this:
 
-![alt text](images/.png)
+![alt text](images/house.png)
 
 We don't need anything else in our scene so delete everything before we begin. Press <kbd>a</kbd> until everything is selected then hit <kbd>x</kbd> to delete.
 

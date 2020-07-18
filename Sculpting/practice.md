@@ -11,7 +11,7 @@ Once you found some good reference images for what you want to make you're ready
 Sometimes it can be helpful to have your images right inside Blender so you can look at them easily while you're working.
 Save your references somewhere sensible and then in Blender open them in an image editor.
 
-To make a new window hover your cursor over the top right edge of the viewport (your cursor will change to look like "+") then click and draw to make a new window.
+To make a new window hover your cursor over the top right edge of the viewport (your cursor will change to look like "+") then click and drag to make a new window.  To change your new window to an image editor click the dropdown in the top left corner of the viewport and select "Image Editor".
 
 ![alt text](images/image_editor.png)
 
